@@ -116,13 +116,13 @@ Built a **2-page interactive dashboard** with dynamic filters, KPI cards, DAX me
 
 ## Executive Overview
 
-![Executive Overview](Dashboard%20Screenshots/Executive_Overview.png)
+![Sales_Overview](Dashboard%20Screenshots/Sales_Overview.png)
 
 ---
 
 ## Product & Customer Insights
 
-![Product & Customer Insights](Dashboard%20Screenshots/Product_Customer_Insights.png)
+![Product_&_Customer_Insights](Dashboard%20Screenshots/Product_Customer_Insights.png)
 
 ---
 
