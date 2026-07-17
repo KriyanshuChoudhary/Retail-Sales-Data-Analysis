@@ -122,7 +122,7 @@ Built a **2-page interactive dashboard** with dynamic filters, KPI cards, DAX me
 
 ## Product & Customer Insights
 
-![Product_&_Customer_Insights](Dashboard%20Screenshots/Product__%26_Customer_Insights)
+![Product_Customer_Insights](Dashboard%20Screenshots/Product_Customer_Insights)
 
 ---
 
