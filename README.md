@@ -114,7 +114,7 @@ Built a **2-page interactive dashboard** with dynamic filters, KPI cards, DAX me
 
 # Dashboard Preview
 
-## Executive Overview
+## Sales Overview
 
 ![Sales_Overview](Dashboard%20Screenshots/Sales_Overview)
 
